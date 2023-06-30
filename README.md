@@ -9,3 +9,5 @@ Summer Challenge on Writer Verification
 python3 inference.py 
 ```
 * The results are present in **submission.csv** file
+
+Model weights  https://drive.google.com/file/d/1IqVdic1iSjiEyr2t2fcYes2OhnbxH3ce/view?usp=drive_link
