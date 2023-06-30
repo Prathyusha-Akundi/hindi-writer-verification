@@ -36,7 +36,7 @@ from sklearn.metrics import *
 
 
 class SiameseNetworkDataset(Dataset):
-    def __init__(self,pairs_df,img_dir = '/perfios/DATA/writer_verfication/test_cropped/',transform=None):
+    def __init__(self,pairs_df,img_dir = '/writer_verfication/test_cropped/',transform=None):
         self.pairs_df = pairs_df
         self.transform = transform
         self.img_dir = img_dir
